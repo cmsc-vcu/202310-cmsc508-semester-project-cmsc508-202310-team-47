@@ -5,7 +5,7 @@ This file contains the overall submission, with embedded images or links to rele
 
 Project Documentation
 
-Website Link: http://cmsc508.com/202310/team47/
+Website Link: http://cmsc508.com/202310/team47/login.php
 
 Presentation Link: https://drive.google.com/file/d/1waJljBPZ7zC1ZTTxJtewWF6SGgKmClYQ/view?usp=sharing
 
