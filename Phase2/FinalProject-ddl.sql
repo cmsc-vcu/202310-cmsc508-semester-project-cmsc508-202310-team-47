@@ -189,6 +189,7 @@ select * from attack;
     drop table if exists report;
     CREATE table report
     select 
+        attack_id as report_id,
         company_name,
         attack_date,
         vector_of_execution,
