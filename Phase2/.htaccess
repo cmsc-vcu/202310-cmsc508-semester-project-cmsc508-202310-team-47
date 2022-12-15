@@ -1,0 +1,8 @@
+# .htaccess Configuration file for userdir
+
+SetEnv SAMPLE_SERVER cmsc508.com
+SetEnv SAMPLE_DB 202310_teams_team47
+SetEnv SAMPLE_USER ghaffaria
+SetEnv SAMPLE_PASS Shout4_ghaffaria_GOME
+
+
